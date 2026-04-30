@@ -9,6 +9,8 @@ Wie findest du den DJ? Mochtest du das Bier? Wie war eigentlich die Hotelanlage?
 - [Website](https://nicigkeit.com)
 - [Youtube Teaser](https://www.youtube.com/watch?v=ZnaXAYSDNhQ)
 
+![Hero](https://github.com/cosmorob/nicigkeit/blob/main/assets/hero-1.png?raw=true)
+
 ## Demo im virtuellen Gerät in Android Studio
 
 Voraussetzungen:

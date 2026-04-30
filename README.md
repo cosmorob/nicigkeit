@@ -5,6 +5,7 @@ Einfache Dart App mit Flutter UI Framework.
 Die Nicigkeits App – Super präzises Feedback in jeder Situation! 
 Mit der nicigkeits app kannst du wirklich alles bewerten - und zwar mit einer Zahl! Wie war deine letzte Lasagne? 
 Wie findest du den DJ? Mochtest du das Bier? Wie war eigentlich die Hotelanlage? wie findest du dieses Kleid?
+Entwickelt 2020 als privates Projekt.
 
 - [Website](https://nicigkeit.com)
 - [Youtube Teaser](https://www.youtube.com/watch?v=ZnaXAYSDNhQ)
